@@ -1,2 +1,2 @@
 # Anjali
-Hii. I am a BCA student studyin
+Hii. I am a BCA student studying.
