@@ -29,3 +29,4 @@ print(type(unique_numbers))  #output: <class 'set'>
 #boolean
 is_valid = True
 print(type(is_valid))  #output: <class 'bool'>
+
