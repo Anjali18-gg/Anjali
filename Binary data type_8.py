@@ -55,8 +55,9 @@ for byte in b:
 #modifying the original bytearray through memoryview
     mv_ba[0] = 97 #changing'A'(65) to 'a'(97)
     print(ba_mv) #output: bytearray(b'aBCDE')
-    print("This code is written by Anjali_0231BCA188")
+    print("This code is written and executed by Anjali_0231BCA188")
           
           
 
     
+
