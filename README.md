@@ -3,10 +3,10 @@ Hii. I am a BCA student studying in Bharati Vidyapeeth Institute of Management a
 
 -------------------------------------------------INDEX--------------------------------------------------------------
 
-Q1. Write python code to print hello world.
-Q2. Write python code to demonstrate valid and invalid identifier.
-Q3. Write python code to demonstrate Keywords. 
-Q4. Write python code to demonstrate indentation.
+**Q1.** Write python code to print hello world.
+**Q2.** Write python code to demonstrate valid and invalid identifier.
+**Q3.** Write python code to demonstrate Keywords. 
+**Q4.** Write python code to demonstrate indentation.
 Q5. Write a python code to demonstrate various types of comments.
 Q6. Write python code to demonstrate input method.
 Q7. Write python code to demonstrate datatypes and variables.
